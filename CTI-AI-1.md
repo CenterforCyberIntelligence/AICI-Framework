@@ -37,37 +37,37 @@ Organizations must:
 #### CTI-AI-1.1b Cross-Border and Multi-Jurisdictional Considerations
    Address jurisdictional constraints on GenAI operations in cross-border intelligence sharing and multinational environments. Document compliance approaches for varied regulatory requirements across operational regions. Implement controls to ensure GenAI use adheres to the most restrictive applicable regulations when operating across multiple jurisdictions.
     
-### CTI-AI-1.3 Record Provenance Metadata
+### CTI-AI-1.2 Record Provenance Metadata
    Store metadata for each GenAI-generated output, including prompt history, model version, timestamp, reviewer identity, and post-processing actions; establish retention requirements for prompt/output pairs that align with intelligence product lifecycles.
 
    Provenance records should maintain chain-of-custody documentation for each GenAI interaction, including model configuration parameters, modification history of prompts, version control information, and complete prompt-response pairs. Implement cryptographic verification mechanisms to prevent tampering with provenance records. Design metadata schemas that facilitate the reproducibility of GenAI outputs while maintaining appropriate access controls. Establish a metadata taxonomy that supports intelligence product lifecycle requirements, including provisions for data minimization and retention alignment with organizational data governance policies.
     
-### CTI-AI-1.4 Implement Technical Controls
+### CTI-AI-1.3 Implement Technical Controls
    Apply technical safeguards to prevent prompt injection, unauthorized model access, and output manipulation.
 
    Technical safeguards should include role-based access controls for GenAI systems, segregation of duties between prompt engineering and output approval, and system-enforced approval workflows before dissemination. Deploy monitoring capabilities to detect anomalous usage patterns that might indicate misuse or compromise. Implement technical guardrails that enforce organizational policies through automation rather than relying solely on procedural controls. Consider architectural approaches that logically separate GenAI systems handling different intelligence classification levels or sensitivity categories.
     
-### CTI-AI-1.5 Train Personnel
+### CTI-AI-1.4 Train Personnel
    Ensure CTI professionals are trained on GenAI capabilities, limitations, ethical risks, and proper validation techniques.
 
    Training programs should include hands-on practical exercises using realistic CTI scenarios, assessment of analyst competency in recognizing GenAI limitations, and regular refresher training reflecting evolving capabilities and threats. Create specialized training tracks for intelligence roles - from collection specialists to strategic analysts to executive briefers. Training should include incident response procedures specific to GenAI failures or manipulation events. Develop a formal certification process for analysts authorized to use or review GenAI outputs in operational intelligence production.
     
-### CTI-AI-1.6 Audit and Monitor Usage
+### CTI-AI-1.5 Audit and Monitor Usage
    Continuously monitor GenAI system use and conduct periodic audits to identify unauthorized use, policy violations, or oversight failure points.
 
    Establish continuous monitoring controls that track routine usage patterns and anomalous activities, with automated alerting for policy violations or suspicious behavior. Implement periodic compliance audits that test adherence to established GenAI use policies, reporting findings to appropriate governance bodies. Develop metrics that measure the effectiveness of controls, not just their implementation. Create cross-functional oversight committees with legal, privacy, security, and intelligence representatives to review audit findings and recommend improvements.
     
-### CTI-AI-1.7 Maintain Model Documentation
+### CTI-AI-1.6 Maintain Model Documentation
    Keep internal documentation of model versions, training data provenance, tuning procedures, and evaluation metrics for each GenAI system deployed in CTI.
 
    Documentation should include model selection criteria, evaluation methodologies, performance metrics specific to CTI use cases, and technical specifications of deployed models. Maintain records of model limitations, known vulnerabilities, and operational constraints—document model dependencies, including software libraries, external data sources, and integration points with other systems. Create knowledge repositories that preserve historical performance data, enabling trend analysis and continuous improvement of model selection and implementation.
 
-### CTI-AI-1.8 Define Prohibited Use Cases
+### CTI-AI-1.7 Define Prohibited Use Cases
    Document specific CTI functions, decisions, or outputs that must not rely on GenAI without extraordinary review and authorization.
 
    Explicitly document intelligence functions where GenAI should never be the sole source for analysis or decision support, such as high-confidence attribution, strategic warning, or escalation decisions. Establish a formal exception process for temporarily allowing restricted use cases under exceptional circumstances, including required approvals, compensating controls, and post-use review. Create clear criteria that define when GenAI outputs must be independently verified through multiple human analysts or alternative intelligence sources. Develop a classification scheme for intelligence products that indicates reliability based on the degree of GenAI involvement in their production.
 
-### CTI-AI-1.9 Knowledge Management and Succession Planning
+### CTI-AI-1.8 Knowledge Management and Succession Planning
    Establish processes to capture organizational knowledge related to GenAI implementation, including successful prompt patterns, model-specific considerations, and integration techniques. Implement knowledge transfer protocols to maintain operational continuity during personnel transitions. Create a central repository of lessons learned, procedural documentation, and technical guidance accessible to authorized CTI personnel.
 
 ---

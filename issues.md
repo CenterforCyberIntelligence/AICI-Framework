@@ -39,9 +39,9 @@ This document outlines areas for improvement in the CTI-AIU Control Framework fo
 **Status:** 🔴 OPEN
 **Description:** The appendices have inconsistent formatting - some use tables while others use bullet points or narrative text, which impacts readability and consistency.
 
-### Issue #08: Missing CTI-AI-1.2 Control Requirement
+### Issue #08: Roadmap Implementation Tracking
 **Status:** 🔴 OPEN
-**Description:** In CTI-AI-1 control requirements, there is a numbering gap between CTI-AI-1.1 and CTI-AI-1.3, with CTI-AI-1.2 missing. This creates confusion in the control structure and potentially indicates a missing requirement.
+**Description:** The newly expanded roadmap includes comprehensive implementation examples, validation scenarios, audit tooling, and configuration templates, but lacks a formal tracking mechanism to measure progress against these deliverables. A project tracking system or detailed milestone document is needed to ensure these items are developed according to the timeline.
 
 ## Recommendations for Future Releases
 

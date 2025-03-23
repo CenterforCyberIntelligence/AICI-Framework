@@ -11,6 +11,9 @@ This document tracks all notable changes to the CTI-AIU Control Framework for Ge
 
 ## [1.0.1] - Draft - 23 March 2025 (Current)
 
+### Added
+- Added comprehensive [ROADMAP.md](./ROADMAP.md) with planned policy templates, framework enhancements, and future development direction
+
 ### Enhanced
 - Enhanced CTI-AI-1 with expanded control statement addressing full intelligence lifecycle
 - Added additional control objectives for CTI-AI-1 focusing on validation procedures and boundary setting
@@ -18,6 +21,7 @@ This document tracks all notable changes to the CTI-AIU Control Framework for Ge
 - Added specific subsections to CTI-AI-1 for classified environments and cross-border considerations
 - Added new requirements to CTI-AI-1: CTI-AI-1.8 (Define Prohibited Use Cases) and CTI-AI-1.9 (Knowledge Management)
 - Enhanced assessment criteria for CTI-AI-1 including tabletop exercises and technical control verification
+- Updated README.md with link to the new roadmap document
 
 ### Fixed
 - Standardized formatting in CTI-AI-1 control document

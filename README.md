@@ -1,4 +1,4 @@
-# CTI-AIU Control Framework for GenAI in Cyber Threat Intelligence
+# CTI-AIU | Control Framework for GenAI in Cyber Threat Intelligence
 
 ![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-blue.svg)
 ![Project Status: Draft](https://img.shields.io/badge/Project_Status-In_Progress-tan.svg)
@@ -7,18 +7,11 @@
 ![Maintainer: Center for Cyber Intelligence](https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg)
 ![Views](https://img.shields.io/github/watchers/centerforcyberintelligence/CTI-AIU?label=Views&style=social)
 
-A community-driven control framework for the responsible use of Generative AI (GenAI) in Cyber Threat Intelligence (CTI) operations. Developed through open collaboration, the framework establishes key controls that ensure GenAI enhances, rather than compromises, intelligence tradecraft.
-
 ## 📋 Framework Overview
 
-The framework introduces the Artificial Intelligence Use (CTI-AIU) control family specifically designed for GenAI applications in threat intelligence contexts. These controls cover:
+The Artificial Intelligence Use for Cyber Threat Intelligence (CTI-AIU) Control Framework is a comprehensive, community-driven standard for the responsible integration of Generative AI (GenAI) into Cyber Threat Intelligence (CTI) operations. Developed through open collaboration among industry experts, this framework establishes structured controls that transform GenAI from a potential liability into a strategic intelligence asset. By addressing unique challenges such as model hallucination, data integrity, and ethical usage, the framework enables organizations to leverage advanced AI capabilities while preserving the accuracy, objectivity, and reliability essential to effective intelligence tradecraft. The CTI-AIU control family provides actionable governance measures, technical safeguards, and operational procedures specifically tailored for GenAI applications across the intelligence lifecycle—from collection and analysis to dissemination and feedback. 
 
-- Ethical use enforcement
-- Human oversight requirements
-- Model risk assessment
-- Data integrity and provenance
-- Red teaming and adversarial evaluation
-- Transparency and community accountability
+The framework offers a maturity-based implementation approach, allowing organizations of all sizes to adopt controls appropriate to their resources and requirements while establishing a clear pathway toward advanced capability integration.
 
 ### Core Controls:
 
@@ -58,6 +51,7 @@ CTI-AIU/
 - Review individual controls (CTI-AI-*.md) for detailed requirements.
 - Review [DOCUMENTATION_STANDARDS.md](./DOCUMENTATION_STANDARDS.md) for document formatting guidelines.
 - Check [CHANGELOG.md](./CHANGELOG.md) for version history and recent updates.
+- Explore [ROADMAP.md](./ROADMAP.md) for upcoming features, policy templates, and framework development plans.
 - Explore [examples/](./examples/) for implementation guidance and practical templates.
 - Review [CONTRIBUTE.md](./CONTRIBUTE.md) to learn how to provide feedback or suggest enhancements.
 
