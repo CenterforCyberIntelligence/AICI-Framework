@@ -1,11 +1,14 @@
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
-![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
-![Maintainer: Center for Cyber Intelligence](https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg)
-![Views](https://img.shields.io/github/watchers/centerforcyberintelligence/CTI-AIU?label=Views&style=social)
-
 # CTI-AI-5
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version: 1.0.0" />
+  <img src="https://img.shields.io/badge/Status-Draft-orange.svg" alt="Status: Draft" />
+  <img src="https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg" alt="Last Updated: 23 March 2025" />
+  <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0" />
+  <img src="https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg" alt="Maintainer: Center for Cyber Intelligence" />
+  <img src="https://hits.sh/github.com/centerforcyberintelligence/CTI-AIU.svg?label=Views&color=6e5494" alt="Views" />
+</div>
+
 ## **Data Integrity Controls**
 
 ### **Control Statement**

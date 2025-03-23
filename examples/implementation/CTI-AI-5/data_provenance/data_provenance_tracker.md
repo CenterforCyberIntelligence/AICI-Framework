@@ -1,11 +1,11 @@
+# Data Provenance Tracking Implementation for GenAI in CTI
+
 ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
 ![Maintainer: Center for Cyber Intelligence](https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg)
 ![Views](https://img.shields.io/github/watchers/centerforcyberintelligence/CTI-AIU?label=Views&style=social)
-
-# Data Provenance Tracking Implementation for GenAI in CTI
 
 This document describes a comprehensive implementation approach for tracking data provenance throughout the GenAI-enhanced CTI lifecycle, adhering to CTI-AI-5 (Data Integrity Controls) requirements. The implementation ensures that all data sources used in GenAI prompts or fine-tuning are verified, tracked, and documented.
 

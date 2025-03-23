@@ -1,11 +1,19 @@
 # CTI-AIU | Control Framework for GenAI in Cyber Threat Intelligence
 
-![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-blue.svg)
-![Project Status: Draft](https://img.shields.io/badge/Project_Status-In_Progress-tan.svg)
-![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
-![Maintainer: Center for Cyber Intelligence](https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg)
-![Views](https://img.shields.io/github/watchers/centerforcyberintelligence/CTI-AIU?label=Views&style=social)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version: 1.0.1" />
+  <img src="https://img.shields.io/badge/Status-Draft-orange.svg" alt="Status: Draft" />
+  <img src="https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg" alt="Last Updated: 23 March 2025" />
+  <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0" />
+  <img src="https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg" alt="Maintainer: Center for Cyber Intelligence" />
+  <img src="https://hits.sh/github.com/centerforcyberintelligence/CTI-AIU.svg?label=Views&color=6e5494" alt="Views" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/centerforcyberintelligence/CTI-AIU">
+    <img src="https://img.shields.io/badge/AI_Collaboration-OpenAI_＆_Claude-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=123456" alt="AI Co-Development" />
+  </a>
+</div>
 
 ## 📋 Framework Overview
 
@@ -33,16 +41,23 @@ CTI-AIU/
 ├── CONTRIBUTE.md               # Contribution guidelines
 ├── DOCUMENTATION_STANDARDS.md  # Documentation formatting standards
 ├── CHANGELOG.md                # Version history and release notes
-├── examples/                   # Prompt examples and validation scenarios
+├── ROADMAP.md                  # Development roadmap and planned enhancements
+├── issues.md                   # Tracked issues and enhancement opportunities
+├── examples/                   # Implementation examples and guidance
 │   ├── framework_mappings.md   # Comprehensive framework mapping analysis
-│   └── implementation/         # Implementation examples organized by control
+│   ├── implementation/         # Implementation examples organized by control
+│   ├── prompt_engineering/     # Prompt templates and security patterns
+│   │   ├── templates/          # Task-specific prompt templates
+│   │   └── security/           # Security-focused prompt patterns
+│   ├── validation_scenarios/   # Testing and verification scenarios
+│   ├── audit_tooling/          # Assessment and compliance tools
+│   └── config_templates/       # Configuration templates for tools and platforms
 ├── appendices/                 # Detailed appendices referenced in the whitepaper
 │   ├── appendix_a_glossary.md  # Glossary of key terms
 │   ├── appendix_b_assessment_checklist.md # Control assessment checklist
 │   ├── appendix_c_prompts_and_validation.md # Example prompts and validation scenarios
 │   └── appendix_d_resources.md # Selected resources for implementation
-├── tools/                      # Optional tools and assessment templates
-└── issues.md                   # Tracked issues and enhancement opportunities
+└── tools/                      # Optional tools and assessment templates
 ```
 
 ## 🚀 Getting Started
