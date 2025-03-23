@@ -1,4 +1,4 @@
-![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
@@ -51,6 +51,9 @@ Organizations must:
     
 7. **Implement Threshold-Based Use Restrictions**  
     Define quantitative thresholds for acceptable model risk levels. Restrict or prohibit use in CTI workflows when these thresholds are exceeded until remediation is complete.
+
+3. **Vendor Management for Third-Party GenAI Systems**
+    Implement vendor assessment criteria specific to GenAI providers, including evaluation of model transparency, security practices, and alignment with organizational CTI requirements. Establish contractual provisions covering model updates, data handling, access controls, and intellectual property rights for GenAI-generated intelligence. Create transition plans for potential vendor changes to ensure continuity of intelligence operations.
     
 
 ---

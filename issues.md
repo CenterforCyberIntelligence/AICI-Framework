@@ -1,3 +1,5 @@
+![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
 ![Maintainer: Center for Cyber Intelligence](https://img.shields.io/badge/Maintainer-Center_for_Cyber_Intelligence-darkblue.svg)
@@ -9,7 +11,37 @@ This document outlines areas for improvement in the CTI-AIU Control Framework fo
 
 ## Identified Issues
 
-🔴 **#00**:
+### Issue #01: Version Number Inconsistency
+**Status:** 🔴 OPEN
+**Description:** There is inconsistency in version numbers across framework documents. Some files show Version 1.0, while others show Version 1.0.0, creating confusion about the current version.
+
+### Issue #02: Status Badge Inconsistency
+**Status:** 🔴 OPEN
+**Description:** The status badges are inconsistent across files. Some documents use "Final" status while others use "Draft" status. This creates confusion about the readiness state of different components.
+
+### Issue #03: Empty Example Implementations
+**Status:** 🔴 OPEN
+**Description:** The examples directory structure exists, but many subdirectories appear to be empty. Implementation examples referenced in the documentation may not be available yet.
+
+### Issue #04: Badge and Link Verification
+**Status:** 🔴 OPEN
+**Description:** Some badge links and external resources may need verification to ensure they point to valid repositories and current resources.
+
+### Issue #05: Control Maturity Level Indicators
+**Status:** 🔴 OPEN
+**Description:** While there's a maturity model described in the whitepaper, the individual control documents don't clearly indicate which maturity level (Foundational, Established, or Advanced) they belong to.
+
+### Issue #06: Implementation Guide Specificity
+**Status:** 🔴 OPEN
+**Description:** Some implementation guidance sections may be too general and could benefit from more specific, actionable recommendations for different organization sizes and contexts.
+
+### Issue #07: Appendix Format Consistency
+**Status:** 🔴 OPEN
+**Description:** The appendices have inconsistent formatting - some use tables while others use bullet points or narrative text, which impacts readability and consistency.
+
+### Issue #08: Missing CTI-AI-1.2 Control Requirement
+**Status:** 🔴 OPEN
+**Description:** In CTI-AI-1 control requirements, there is a numbering gap between CTI-AI-1.1 and CTI-AI-1.3, with CTI-AI-1.2 missing. This creates confusion in the control structure and potentially indicates a missing requirement.
 
 ## Recommendations for Future Releases
 

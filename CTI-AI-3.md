@@ -1,4 +1,4 @@
-![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
@@ -48,7 +48,12 @@ Organizations must:
     
 6. **Test Oversight Effectiveness**  
     Regularly assess the effectiveness of human oversight procedures through blind testing, accuracy verification, and control validation exercises.
-    
+
+7. **Executive Reporting Requirements**
+    Define standardized metrics and reporting formats for executive visibility into GenAI use, effectiveness, and compliance. Establish a cadence for leadership briefings on GenAI deployment status, risk posture, and material changes to model capabilities. Create executive-level dashboards that provide meaningful oversight without requiring technical expertise.
+
+8. **GenAI Incident Response Planning**
+    Develop GenAI-specific incident response procedures for handling model failures, output inaccuracies, or manipulation events in intelligence products. These procedures should include containment strategies, notification protocols for affected intelligence consumers, and remediation steps for compromised analysis. Document the criteria for declaring a GenAI incident, escalation thresholds, and post-incident review requirements.
 
 ---
 

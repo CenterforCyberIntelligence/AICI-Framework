@@ -1,4 +1,4 @@
-![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Status: Final](https://img.shields.io/badge/Status-Final-purple.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)

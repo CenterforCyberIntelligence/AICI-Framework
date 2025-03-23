@@ -1,4 +1,4 @@
-![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
@@ -51,6 +51,9 @@ Organizations must:
     
 7. **Integrate Red Teaming into Model Lifecycle**  
     Require that red team evaluations be conducted prior to production use, after significant model updates, and on a recurring basis determined by the organization's risk appetite.
+
+8. **Integration with Threat Modeling**
+    Incorporate GenAI capabilities and limitations into threat modeling processes, ensuring intelligence analysts understand both the benefits and constraints when developing threat scenarios. Document how GenAI outputs should be incorporated into different threat modeling methodologies. Define verification steps for GenAI-generated threat scenarios before inclusion in risk assessments.
     
 
 ---

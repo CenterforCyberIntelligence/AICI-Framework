@@ -1,7 +1,5 @@
-
-
 # Responsible Use of Generative AI in Cyber Threat Intelligence
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-blue.svg)
 ![Status: Draft](https://img.shields.io/badge/Status-Draft-orange.svg)
 ![Last Updated: 23 March 2025](https://img.shields.io/badge/Last_Updated-23_March_2025-teal.svg)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)
